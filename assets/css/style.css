@@ -56,6 +56,9 @@ aside {
     width: 270px;
     display: inline-block;
     text-align: center;
+    padding: 50px 10px 0px;
+    position: relative;
+    bottom: 25px;
 }
 
 footer {
@@ -70,4 +73,14 @@ footer {
 .content-inside {
     padding: 20px;
     padding-bottom: 50px;
+}
+
+.connect {
+    position: relative;
+    bottom: 45px;
+}
+
+.connectImages {
+    position: relative;
+    bottom: 45px;
 }
