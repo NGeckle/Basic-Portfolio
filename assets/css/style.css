@@ -1,10 +1,12 @@
 header {
    background: white;
+   
 }
 
-h1 {
-    text-align: center;
+h2 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    border-bottom: 1px solid #CCC;
+    padding-bottom: 3px;
 }
 
 ul {
@@ -64,7 +66,7 @@ html, body {
     text-align: center;
     padding: 50px 10px 0px;
     position: relative;
-    bottom: 320px;
+    bottom: 350px;
 }
 
 #asideAction {
@@ -75,6 +77,14 @@ html, body {
     padding: 50px 10px 0px;
     position: relative;
     top: 115px;
+}
+
+#asidePortfolio {
+    background-color: white;
+    width: 270px;
+    display: inline-block;
+    text-align: center;
+    padding: 50px 10px 0px;
 }
 
 footer {
@@ -124,3 +134,4 @@ p {
     width: 600px;
     height: 230px;
 }
+
