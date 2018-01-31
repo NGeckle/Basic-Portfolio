@@ -7,6 +7,7 @@ h2 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     border-bottom: 1px solid #CCC;
     padding-bottom: 3px;
+    text-align: center;
 }
 
 ul {
@@ -90,6 +91,16 @@ html, body {
     bottom: 15px;
 }
 
+#asideHidden {
+    background-color: white;
+    width: 270px;
+    display: inline-block;
+    text-align: center;
+    padding: 50px 10px 0px;
+    position: relative;
+    bottom: 355px;
+}
+
 footer {
     height: 50px;
     margin-top: -50px;
@@ -144,5 +155,14 @@ p {
     height: 230px;
 }
 
+#hidden {
+    text-align: center;
+    font-size: 25px;
+}
 
+#catGif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
     
